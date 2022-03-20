@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: 'Smooch Sans', sans-serif;
+}
+header {
+    background-color: cadetblue;
+    min-height: 10vh;
+}
+main {
+    background-color: darkgrey;
+    display: flex;
+    min-height: 80vh;
+    padding: 20px;
+}
+footer {
+    color:white;
+    background-color: cadetblue;
+    min-height: 10vh;
+    padding: 20px;
+}
+.colamns {
+    display: flex;
+}
+.col {
+    width: 100vw;
+    padding: 5px;
+    display: flex;
+}
+.dev-text {
+    text-align: center;
+}
+.card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+}
+.card-img {
+    height: 15vw;
+}
+.card-text {
+    padding: 10px;
+    display: flex;
+}
+.logo {
+    height: 5vh;
+}
